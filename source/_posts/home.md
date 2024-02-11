@@ -1,9 +1,12 @@
 ---
 title: Ledger の blog
-tags: HOME
+categories:
+  - INFO
+tags:
+  - HOME
 ---
 
-# 我的Go语言学习笔记
+# ledger の blog
 
 
 

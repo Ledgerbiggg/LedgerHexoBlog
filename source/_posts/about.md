@@ -1,4 +1,9 @@
 ---
 title: Ledger の about
-tags: ABOUT
+tags: 
+    - ABOUT
+categories:
+    - INFO 
 ---
+
+# Ledger の about
