@@ -1,6 +1,6 @@
 ---
 title: Ledger の about
-tags: about
+tags: ABOUT
 ---
 
 
