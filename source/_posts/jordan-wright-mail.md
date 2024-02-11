@@ -1,7 +1,9 @@
 ---
 title: 使用go语言框架jordan-wright/email发送邮件
 date: 2023-02-10
-tags: go,email
+tags: 
+  - go 
+  - email
 ---
 
 ## jordan-wright/email
