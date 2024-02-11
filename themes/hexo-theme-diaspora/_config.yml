@@ -1,7 +1,7 @@
 # 头部菜单，title: link
 menu:
   首页: /
-  分类: /categories
+  分类: /infos/categories
   标签: /infos/tags
   关于: /infos/about
   归档: /archives

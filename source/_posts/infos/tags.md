@@ -1,13 +1,20 @@
 ---
-title: Ledger の tags
-tags: 
-    - TAGS
-categories:
-    - INFO 
+title: tags
+type: "tags"
 date: 2023-01-10
 ---
 
-# Ledger の about
+# Ledger の tags
+
+
+
+
+
+
+
+
+
+
 
 
 

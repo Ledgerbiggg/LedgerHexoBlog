@@ -1,7 +1,5 @@
 ---
 title: Ledger の blog
-categories:
-  - INFO
 tags:
   - HOME
 ---
