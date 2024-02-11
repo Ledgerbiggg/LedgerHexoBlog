@@ -1,8 +1,10 @@
 ---
 title: go做后端实现前端视频的断点续传
 date: 2023-02-10
-tags: 
+categories:
   - go
+tags:
+  - vue
   - video
 ---
 

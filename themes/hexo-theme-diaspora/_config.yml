@@ -2,9 +2,9 @@
 menu:
   首页: /
   分类: /categories
-  标签: /tags
-  归档: /archives  
-  关于: /about
+  标签: /infos/tags
+  关于: /infos/about
+  归档: /archives
 
 # 是否显示目录
 TOC: true
