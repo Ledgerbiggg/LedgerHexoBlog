@@ -12,8 +12,8 @@ notice: flex-block主题部分重构，详情查看https://github.com/miiiku/fle
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  name: Ledger
+  avatar: https://img2.imgtp.com/2024/02/11/ZnxgLim7.jpg
   description: 贵在坚持
 
 toc:
@@ -88,7 +88,7 @@ baidu_analytics:
 # 腾讯分析
 tencent_analytics: 
 # 站点ico
-favicon: /favicon.ico
+favicon: ./source/favicon.ico
 
 
 # Social Icon
@@ -98,5 +98,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
+    github  : https://github.com/Ledgerbiggg/
     twitter : https://twitter.com/guanquanhong
