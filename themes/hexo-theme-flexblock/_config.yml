@@ -88,7 +88,7 @@ baidu_analytics:
 # 腾讯分析
 tencent_analytics: 
 # 站点ico
-favicon: ./source/favicon.ico
+favicon: https://img2.imgtp.com/2024/02/11/ZnxgLim7.jpg
 
 
 # Social Icon
