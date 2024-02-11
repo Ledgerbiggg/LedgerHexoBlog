@@ -98,8 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: hexo-theme-flexblock
-theme: hexo-theme-shokaX
+theme: hexo-theme-flexblock
+#theme: hexo-theme-shokaX
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
