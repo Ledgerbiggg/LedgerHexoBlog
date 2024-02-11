@@ -62,11 +62,11 @@ hitokoto: true
 
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
-    facebook: /
-    twitter: /
-    github: github.com/Ledgerbiggg
-    wechat: /img/ledger.jpg
-    email: ledgerbiggg@gmail.com
+#    facebook: /
+#    twitter: /
+    github: https://github.com/Ledgerbiggg
+    wechat: https://img2.imgtp.com/2024/02/11/38gw75oU.png
+    email: https://img2.imgtp.com/2024/02/11/wPf9X0wE.png
   
 # 备案
 beian: 
