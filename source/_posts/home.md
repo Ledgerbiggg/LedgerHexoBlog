@@ -1,7 +1,6 @@
 ---
 title: Ledger の blog
 tags: HOME
-date: 2024-02-11
 ---
 
 # 我的Go语言学习笔记
