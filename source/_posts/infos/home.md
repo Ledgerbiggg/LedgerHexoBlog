@@ -2,6 +2,7 @@
 title: Ledger の blog
 tags:
   - HOME
+date: 2099-05-10
 ---
 
 # ledger の blog
