@@ -1,6 +1,5 @@
 ---
 title: 使用go语言框架flag使用命令行参数
-date: 2023-02-10
 tags:
   - go每日一库
   - flag
