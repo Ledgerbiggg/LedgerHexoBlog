@@ -5,6 +5,7 @@ tags:
 categories:
     - INFO 
 date: 2023-05-10
+cover: https://www.ledgerhhh.art/img/img_3.png
 ---
 
 
