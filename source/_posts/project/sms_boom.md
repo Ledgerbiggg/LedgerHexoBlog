@@ -1,0 +1,26 @@
+---
+title: 短信轰炸的小项目
+tags:
+  - project
+  - sms
+---
+[项目地址](https://github.com/Ledgerbiggg/goSMSBoom)
+
+
+* 这个是用go语言编写的一个短信验证码轰炸的程序
+
+* 通过修改配置文件来实现轰炸
+
+* 配置项有环境变量，手机号，线程数量，执行时机
+
+```yml
+ENV: win
+# 手机号
+Phone: xxx
+# 线程数量
+ThreadCount: 3
+# 执行时机(默认60秒一次)
+ExecutionCron: "*/6 * * * * *"
+```
+
+
