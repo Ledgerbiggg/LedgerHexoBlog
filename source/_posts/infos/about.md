@@ -13,7 +13,7 @@ cover: https://www.ledgerhhh.art/img/img_3.png
 
 
 
-## 作者简介![](https://img2.imgtp.com/2024/02/11/y30m1cip.png)
+## 作者简介
 
 
 
